@@ -1,3 +1,3 @@
 # Github-demo
-Demo repo for Github Tutorial
-# Github-demo repo
+Demo repo for Github tutorial
+
